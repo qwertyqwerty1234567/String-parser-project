@@ -1,3 +1,3 @@
 # Projects
 
-Random projects I've done from school :).
+Parser to calculate math equations of strings
