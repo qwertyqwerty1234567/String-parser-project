@@ -1,8 +1,6 @@
 
 
-/**
- * Created by liuwanzhen on 17/8/23.
- */
+
 public class Parser {
     private String expStr;
     private int currentIndex;

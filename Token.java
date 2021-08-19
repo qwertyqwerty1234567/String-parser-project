@@ -1,7 +1,5 @@
 
-/**
- * Created by liuwanzhen on 17/8/23.
- */
+
 public class Token {
     public static final int TOKEN_TYPE_EOF = 0; 
     public static final int TOKEN_TYPE_NUMBER = 1; 
